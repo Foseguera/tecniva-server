@@ -1,0 +1,145 @@
+{
+    "periodos": {
+        "periodo": {
+            "id": 23,
+            "fechaInicio": "01/10/2019",
+            "fechaFin": "30/10/2019",
+            "status": "Abierto"
+        },
+        "productos": [
+            {
+            "id": 1,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "AXA",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 2,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "GNP",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 3,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "AXA",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 4,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "GNP",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 5,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "AXA",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 6,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "GNP",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 7,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "AXA",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 8,
+            "clave": "R",
+            "estatus": "Cerrado",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "GNP",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 9,
+            "clave": "R",
+            "estatus": "Remesada",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "AXA",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            },
+            {
+            "id": 10,
+            "clave": "R",
+            "estatus": "Cerrado",
+            "periodo": 175,
+            "producto": "RESIDENTES",
+            "socio": "GNP",
+            "remesa": "20190515",
+            "fechaDesde": "01/05/2019",
+            "fechaHasta": "31/05/2019",
+            "polizasTotales": "NO HAY PÓLIZAS",
+            "polizasRenovadas": "NO HAY PÓLIZAS"
+            }
+        ]
+    },
+    "mensajeOk": {
+        "mensaje": "Operación exitosa"
+    }
+}
