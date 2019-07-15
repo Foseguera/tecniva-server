@@ -173,5 +173,15 @@
             "registrosError": 5,
             "registrosPendientes": 0
         }
+    },
+    "renovacionesReportesUploadOk": {
+        "registros": [],
+        "status": {
+            "registrosProcesar": 555,
+            "registrosLeidos": 555,
+            "registrosGrabados": 555,
+            "registrosError": 0,
+            "registrosPendientes": 0
+        }
     }
 }
