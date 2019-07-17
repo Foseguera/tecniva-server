@@ -141,5 +141,48 @@
     },
     "mensajeOk": {
         "mensaje": "Operación exitosa"
+    },
+    "renovacionesReportesUpload": {
+        "registros": [
+          {
+            "canal": "1",
+            "poliza": "1234",	  
+            "error": "Error RFC"
+          },
+          {
+            "canal": "2",
+            "poliza": "1235",	  
+            "error": "Error RFC"
+          },
+          {
+            "canal": "1",
+            "poliza": "1236",	  
+            "error": "Existe caracteres extraños en el registro"
+          }
+        ],
+        "status": {
+            "registrosProcesar": 555,
+            "registrosLeidos": 555,
+            "registrosGrabados": 550,
+            "registrosError": 5,
+            "registrosPendientes": 0
+        }
+    },
+    "renovacionesReportesUploadOk": {
+        "registros": [],
+        "status": {
+            "registrosProcesar": 555,
+            "registrosLeidos": 555,
+            "registrosGrabados": 555,
+            "registrosError": 0,
+            "registrosPendientes": 0
+        }
+    },
+    "renovacionesRemesasAbierto": {
+        "estatus": "ABIERTO",
+        "fechaDesde": "12-02-1993",
+        "fechaHasta": "02-12-2019",
+        "remesa": null,
+        "totalPolizas": null
     }
 }
